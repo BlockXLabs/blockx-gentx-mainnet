@@ -20,7 +20,7 @@
         "validator_address": "blockxvaloper16am9xxy7q4yw5l9zx76zqm2p3ne8e6zns8xq3t",
         "pubkey": {
           "@type": "/cosmos.crypto.ed25519.PubKey",
-          "key": "IppJ0LyOcn5/eGzlzWbmU7+MG21atVX4WKFdJFpGG1w="
+          "key": "MIORIh2K33E7MM21VcgQvycRc9AB73oEtuwGDyLhCIU="
         },
         "value": {
           "denom": "abcx",
@@ -56,6 +56,6 @@
     }
   },
   "signatures": [
-    "Z7K7MO+F9apU1vtOgCwcb8JThznI6GU/P2B4Z++P4Wo1YAMdO0hl0Z95Q/uaTwwjSHpVhn54GNbnLMfG9PMerAE="
+    "k2vcGWu2Bj2/stzukk84ZBfgfhszf4U6+jMy5op+sf0uBZ8MYQA4dQ5HsmZPv91Kh6HmHtvgtah6hnuM/9b81AA="
   ]
 }
